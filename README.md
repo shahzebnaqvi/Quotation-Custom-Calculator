@@ -1,1 +1,1 @@
-"# solar" 
+Quotation Custom Calculator
